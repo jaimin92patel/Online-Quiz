@@ -4,4 +4,4 @@ Online Quiz:
 2. User pick the answers from multiple choice.
 3. Result will be displayed at the end of the quiz.
 
-Technologies: Java, Servlet
+Technologies: Java, JSP, Servlet, JDBC, MySQL
